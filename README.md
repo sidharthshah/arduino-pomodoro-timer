@@ -1,0 +1,1 @@
+Simple Pomodoro Timer build with Custom PCB. Find Arduino sketch in arduino folder
